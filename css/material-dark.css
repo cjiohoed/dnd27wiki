@@ -379,7 +379,7 @@ hr {
 .v-navigation-drawer__view,
 .v-navigation-drawer .v-list {
   background-image: 
-    linear-gradient(rgba(18, 18, 18, 0.85), rgba(18, 18, 18, 0.85)),
+    linear-gradient(rgba(18, 18, 18, 0.5), rgba(18, 18, 18, 0.85)),
     url('/img/_lnav.jpg') !important;
   background-size: contain !important;
   background-position: 100% 100% !important;
