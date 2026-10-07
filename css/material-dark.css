@@ -381,8 +381,8 @@ hr {
   background-image: 
     linear-gradient(rgba(18, 18, 18, 0.5), rgba(18, 18, 18, 1.0)),
     url('/img/_lnav.jpg') !important;
-  background-size: contain !important;
-  background-position: 100% 100% !important;
+  background-size: 100% 100% !important;
+  background-position: center !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
   background-color: transparent !important;
