@@ -362,3 +362,42 @@ hr {
 .v-btn.v-btn--fab:hover .v-icon {
   color: #ffffff !important;
 }
+
+/* ============================================
+   ФОН БОКОВОГО МЕНЮ — ВЕРТИКАЛЬНАЯ КАРТИНКА
+   ============================================ */
+
+/* Внешний контейнер drawer — держит картинку */
+.v-navigation-drawer,
+.v-navigation-drawer--clipped,
+.v-navigation-drawer--fixed {
+  background-color: #1a1a1a !important;
+}
+
+/* Внутренние контейнеры, которые могут перекрывать фон */
+.v-navigation-drawer__content,
+.v-navigation-drawer__view,
+.v-navigation-drawer .v-list {
+  background-image: 
+    linear-gradient(rgba(18, 18, 18, 0.85), rgba(18, 18, 18, 0.85)),
+    url('/img/_lnav.jpg') !important;
+  background-size: contain !important;
+  background-position: 100% 100% !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-color: transparent !important;
+}
+
+/* Пункты меню — прозрачные, чтобы картинка была видна */
+.v-navigation-drawer .v-list-item {
+  background-color: transparent !important;
+}
+
+/* Активный пункт и ховер — подсветка поверх картинки */
+.v-navigation-drawer .v-list-item--active {
+  background-color: rgba(255, 255, 255, 0.12) !important;
+}
+
+.v-navigation-drawer .v-list-item:hover {
+  background-color: rgba(255, 255, 255, 0.06) !important;
+}
