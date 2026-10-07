@@ -2,19 +2,11 @@
 title: ПРИ D&D 2027: Игрa Страда
 description: 
 published: 1
-date: 2026-10-05T13:32:17.627Z
+date: 2026-10-07T12:39:44.663Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-05T00:07:44.319Z
 ---
-
-<div style="
-  background-image: url('/thumb-1920-1382819.png');
-  background-size: cover;
-  background-position: center;
-  padding: 20px;
-  border-radius: 8px;
-">
 
 Привет, друг!
 Мы вернулись и готовы представить главное приключение года.
