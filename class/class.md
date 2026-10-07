@@ -2,7 +2,7 @@
 title: Класс
 description: 
 published: 1
-date: 2026-10-05T15:42:48.014Z
+date: 2026-10-07T22:09:59.253Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-05T15:42:42.877Z
